@@ -1,5 +1,3 @@
-可能有帮助的：
-
 https://github.com/shirgur/PointerNet
 
 https://yyqchemic.com/2020/02/13/solve-tsp-problem-with-ptr-net/
